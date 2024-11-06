@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tjg93
-- 👀 I’m interested in creating custom firmware, and possibly application xreation
+- 👀 I’m interested in creating custom firmware, and possibly application creation
 - 🌱 I’m currently learning the basics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me... keeptj6@gmail.com
